@@ -15,3 +15,5 @@ Android6.0运行权限与Android7.0多窗口模式 - Permission模块
 
 通知 - Notification模块
 
+Android中自定义view - CustomView模块
+
